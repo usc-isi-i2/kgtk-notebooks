@@ -7,8 +7,6 @@ The goal of this tutorial repository is to introduce the functionality of KGTK t
 This repository has been created for the purpose of the KGTK tutorial presented at ISWC 2021. For more information on this tutorial and how to get in touch, see our [website](https://usc-isi-i2.github.io/kgtk-tutorial-iswc-2021/).
 
 ## Contact
-Amandeep Singh (`amandeep@isi.edu`)
-
-Pedro Szekely (`pszekely@isi.edu`)
-
-Filip Ilievski (`ilievski@isi.edu`)
+* Amandeep Singh (`amandeep@isi.edu`)
+* Pedro Szekely (`pszekely@isi.edu`)
+* Filip Ilievski (`ilievski@isi.edu`)
