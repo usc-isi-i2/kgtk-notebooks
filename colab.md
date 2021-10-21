@@ -2,7 +2,9 @@
 
 List of steps required to be able to run the ISI Google colab Notebooks.
 
-### 1. Make a copy of the [notebook](https://colab.research.google.com/drive/15JnQA_Uk17Q7u3CADmjwrv7Nkaf2_d9j) to your Google Drive.
+### Make a copy of the to your Google Drive.
+
+[notebook](https://colab.research.google.com/drive/15JnQA_Uk17Q7u3CADmjwrv7Nkaf2_d9j) 
 
 The link specified here is a sample notebook. Click on `Save a copy in Drive` from the `File` menu as shown.
 
