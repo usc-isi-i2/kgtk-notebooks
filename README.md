@@ -6,6 +6,14 @@ The goal of this tutorial repository is to introduce the functionality of KGTK t
 
 This repository has been created for the purpose of the KGTK tutorial presented at ISWC 2021. For more information on this tutorial, see our [website](https://usc-isi-i2.github.io/kgtk-tutorial-iswc-2021/).
 
+## Notebooks
+
+1. `kg-profiling.ipynb`
+2. `kg-graph-embeddings.ipynb`
+3. `kg-augment.ipynb`
+4. `enriching-wikidata-with-getty.ipynb`
+5. `kg-network-analysis.ipynb`
+
 ## Contact
 * Amandeep Singh (`amandeep@isi.edu`)
 * Pedro Szekely (`pszekely@isi.edu`)
