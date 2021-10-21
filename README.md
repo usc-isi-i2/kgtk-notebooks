@@ -8,11 +8,11 @@ This repository has been created for the purpose of the KGTK tutorial presented 
 
 ## Notebooks
 
-1. `kg-profiling.ipynb`
-2. `kg-graph-embeddings.ipynb`
-3. `kg-augment.ipynb`
-4. `enriching-wikidata-with-getty.ipynb`
-5. `kg-network-analysis.ipynb`
+1. `kg-profiling.ipynb` performs profiling of a Wikidata subgraph, by computing deep statistics of its classes, instances, and properties.
+2. `kg-graph-embeddings.ipynb` computes graph embeddings of a Wikidata subgraph using kgtk, demonstrates how to use these embeddings for similarity estimation, and visualizes them.
+3. `kg-augment.ipynb` shows how structured data from IMDb can be integrated into a subset of Wikidata.
+4. `enriching-wikidata-with-getty.ipynb` shows how LOD graphs like Getty Vocabulary can be used to enrich Wikidata by using kgtk operations.
+5. `kg-network-analysis.ipynb` analyzes the family network of Arnold Schwarzenegger (Q2685) in Wikidata by using KGTK operations.
 
 ## Contact
 * Amandeep Singh (`amandeep@isi.edu`)
