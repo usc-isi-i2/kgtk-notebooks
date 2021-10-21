@@ -8,5 +8,7 @@ This repository has been created for the purpose of the KGTK tutorial presented 
 
 ## Contact
 Amandeep Singh (`amandeep@isi.edu`)
+
 Pedro Szekely (`pszekely@isi.edu`)
+
 Filip Ilievski (`ilievski@isi.edu`)
