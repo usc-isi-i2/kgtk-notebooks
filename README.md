@@ -22,11 +22,12 @@ List of steps required to be able to run the ISI Google colab Notebooks.
 
 The following tutorial notebooks are available to run in Google Colab
 
-1. [kg-profiling.ipynb](https://colab.research.google.com/drive/15JnQA_Uk17Q7u3CADmjwrv7Nkaf2_d9j?usp=sharing)
-2. [kg-graph-embeddings.ipynb]()
-3. [kg-augment.ipynb]()
-4. [enriching-wikidata-with-getty.ipynb](https://colab.research.google.com/drive/1kYzTs-nO6C49T6S4Hqn6pveB49S7ehUy?usp=sharing)
-5. [kg-network-analysis.ipynb](https://colab.research.google.com/drive/1qgg1FBCtlJe339iFfzqPHNgIlerX3VOH?usp=sharing)
+1. [01-kgtk-introduction.ipynb](https://colab.research.google.com/drive/1GF5QLc1JBviLltAbSqn5oPOOXbLQway4?usp=sharing)
+2. [kg-profiling.ipynb](https://colab.research.google.com/drive/15JnQA_Uk17Q7u3CADmjwrv7Nkaf2_d9j?usp=sharing)
+3. [kg-graph-embeddings.ipynb]()
+4. [kg-augment.ipynb]()
+5. [enriching-wikidata-with-getty.ipynb](https://colab.research.google.com/drive/1kYzTs-nO6C49T6S4Hqn6pveB49S7ehUy?usp=sharing)
+6. [kg-network-analysis.ipynb](https://colab.research.google.com/drive/1qgg1FBCtlJe339iFfzqPHNgIlerX3VOH?usp=sharing)
 
 Click on a link, it'll take you to the Google Colab notebook. This is a readonly notebook. 
 
