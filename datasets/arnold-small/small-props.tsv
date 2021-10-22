@@ -1,0 +1,4 @@
+id	node1	label	node2
+p11	start	member	set1
+p12	end	member	set1
+p12	point_in_time	member	set1
