@@ -1,0 +1,10 @@
+id	node1	label	node2
+e1	m_shriver	spouse	a_schwarzenegger
+e2	a_schwarzenegger	coactor	l_hamilton
+e3	g_rydstrom	colleague	g_borders
+e4	g_rydstrom	colleague	a_schwarzenegger
+e5	a_schwarzenegger	name	'Arnold Schwarzenegger'@de
+e6	l_hamilton	name	'Linda Hamilton'@en
+e7	g_rydstrom	name	'Gary R. Rydstrom'@en
+e8	g_borders	name	'Gloria S. Borders'@en
+e9	m_shriver	name	'Maria Shriver'@en
