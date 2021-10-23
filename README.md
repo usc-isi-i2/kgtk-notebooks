@@ -12,7 +12,7 @@ This repository has been created for the purpose of the KGTK tutorial presented 
 4. `04-kg-enrichment-with-csv.ipynb` shows how structured data from IMDb can be integrated into a subset of Wikidata.
 5. `05-kg-enrichment-with-lod.ipynb` shows how LOD graphs like Getty Vocabulary can be used to enrich Wikidata by using kgtk operations.
 6. `06-kg-network-analysis.ipynb` analyzes the family network of Arnold Schwarzenegger (Q2685) in Wikidata by using KGTK operations.
-7. `07-kg-constraint-validation.ipynb`
+7. `07-kg-constraint-validation.ipynb` demonstrates how to do constraint validation on one wikidata property.
 
 ## Running the notebooks in Google Colab
 
