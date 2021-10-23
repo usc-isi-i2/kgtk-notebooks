@@ -26,7 +26,7 @@ The following tutorial notebooks are available to run in Google Colab
 2. [02-kg-profiling.ipynb](https://colab.research.google.com/drive/1hKh1ZVEgFKTcQjzW0yQ4G4xrEc3rBv91?usp=sharing)
 3. [03-kg-graph-embeddings.ipynb](https://colab.research.google.com/drive/1A55l10voA4jnjoju3fojJWY3buLfaR4i?usp=sharing)
 4. [kg-augment.ipynb]()
-5. [enriching-wikidata-with-getty.ipynb](https://colab.research.google.com/drive/1kYzTs-nO6C49T6S4Hqn6pveB49S7ehUy?usp=sharing)
+5. [05-kg-enrichment-with-lod.ipynb](https://colab.research.google.com/drive/1g6m3Fy98emr2U21iTvgG1nZiFILJ-uTu?usp=sharing)
 6. [06-kg-network-analysis.ipynb](https://colab.research.google.com/drive/1SiVlseUDeYpAJuL9nTrowafdvHSltsrC?usp=sharing)
 7. [07-kg-constraint-validation.ipynb](https://colab.research.google.com/drive/1VfAKIN5ApNkdPu1gFoILO0ZwMAoeap66?usp=sharing)
 
