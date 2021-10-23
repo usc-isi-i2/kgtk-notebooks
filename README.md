@@ -6,7 +6,7 @@ This repository has been created for the purpose of the KGTK tutorial presented 
 
 ## Notebooks
 
-1. `01-kgtk-introduction.ipynb` 
+1. `01-kgtk-introduction.ipynb` introduction to kgtk and kypher.
 2.  `02-kg-profiling.ipynb` performs profiling of a Wikidata subgraph, by computing deep statistics of its classes, instances, and properties.
 3. `03-kg-graph-embeddings.ipynb` computes graph embeddings of a Wikidata subgraph using kgtk, demonstrates how to use these embeddings for similarity estimation, and visualizes them.
 4. `04-kg-enrichment-with-csv.ipynb` shows how structured data from IMDb can be integrated into a subset of Wikidata.
