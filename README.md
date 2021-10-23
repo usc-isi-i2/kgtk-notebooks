@@ -42,6 +42,12 @@ This will create a copy of the notebook in your Google Drive.
 
 Run the first cell to install [kgtk](https://github.com/usc-isi-i2/kgtk).
 
+If you see this warning,
+
+![Author](media/readme-3.png)
+
+click on `Run anyway` to continue
+
 You'll see an error after the install finishes,
 
 ![Restart Runtime](media/readme-2.png "Restart Runtime")
