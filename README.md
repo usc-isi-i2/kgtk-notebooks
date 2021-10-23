@@ -27,7 +27,7 @@ The following tutorial notebooks are available to run in Google Colab
 3. [03-kg-graph-embeddings.ipynb](https://colab.research.google.com/drive/1A55l10voA4jnjoju3fojJWY3buLfaR4i?usp=sharing)
 4. [kg-augment.ipynb]()
 5. [enriching-wikidata-with-getty.ipynb](https://colab.research.google.com/drive/1kYzTs-nO6C49T6S4Hqn6pveB49S7ehUy?usp=sharing)
-6. [kg-network-analysis.ipynb](https://colab.research.google.com/drive/1qgg1FBCtlJe339iFfzqPHNgIlerX3VOH?usp=sharing)
+6. [06-kg-network-analysis.ipynb](https://colab.research.google.com/drive/1SiVlseUDeYpAJuL9nTrowafdvHSltsrC?usp=sharing)
 
 Click on a link, it'll take you to the Google Colab notebook. This is a readonly notebook. 
 
