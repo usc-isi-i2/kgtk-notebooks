@@ -29,6 +29,7 @@ The following tutorial notebooks are available to run in Google Colab
 5. [05-kg-enrichment-with-lod.ipynb](https://colab.research.google.com/drive/1g6m3Fy98emr2U21iTvgG1nZiFILJ-uTu?usp=sharing)
 6. [06-kg-network-analysis.ipynb](https://colab.research.google.com/drive/1SiVlseUDeYpAJuL9nTrowafdvHSltsrC?usp=sharing)
 7. [07-kg-constraint-validation.ipynb](https://colab.research.google.com/drive/1VfAKIN5ApNkdPu1gFoILO0ZwMAoeap66?usp=sharing)
+8. [kgtk-browser.ipynb](https://colab.research.google.com/drive/1_nPKCGswbDzuxJBrSHmqZNSOVVFQkAGY?usp=sharing)
 
 Click on a link, it'll take you to the Google Colab notebook. This is a readonly notebook. 
 
