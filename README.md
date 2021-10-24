@@ -68,6 +68,7 @@ Now, simply run all the cells. The notebook should run successfully.
 ### Google Colab Caveats
 
 - The colab VM and python environment is ephemeral. The VM will reset after a while, all the installed libraries and files produced will be lost. 
+- Google Colab File [IO](https://colab.research.google.com/notebooks/io.ipynb). Download / Upload files to Google Colab
 - You can [connect a google drive](https://www.marktechpost.com/2019/06/07/how-to-connect-google-colab-with-google-drive/) to the colab notebook to read from and save to.
 - Users can run the same colab notebook by sharing it with a link. This can have unwanted complications in case multiple people run the same cell at the same time.
 
