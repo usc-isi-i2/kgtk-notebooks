@@ -10,3 +10,5 @@ tutorial/extra_files.json
 tutorial/.ipynb_checkpoints/cache-bug-checkpoint.ipynb
 tutorial/.ipynb_checkpoints/kg-augment-checkpoint.ipynb
 projects/*
+use-cases/.ipynb_checkpoints/bio-subgraphs-checkpoint.ipynb
+use-cases/.ipynb_checkpoints/p279-similarity-checkpoint.ipynb
