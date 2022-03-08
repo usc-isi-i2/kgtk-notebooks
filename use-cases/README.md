@@ -23,3 +23,10 @@ The edges in the subgraph are all edges between two classes. The resulting graph
 The notebook explores the idea of augmenting the graph by inheriting properties defined on superclasses to the subclasses.
 The notebook explores the challenges to isolate classes for common objects from the huge class hierarchies related to the bionformatics domain.
 In the augmented graph, the average outdegree of classes is 68 (compared to 1.5 in the original graph)
+
+
+## Visualize a KG from kgtk edge file and node file
+https://github.com/usc-isi-i2/kgtk-notebooks/blob/main/use-cases/Visualize-force-graph-example.ipynb
+
+In this use case, we produce a html visualization from the KG files as input (edge file and optional node file) using the kgtk visualize-force-graph command.
+This notebook includes 9 examples illustrating the options of visualize-force-graph command.
