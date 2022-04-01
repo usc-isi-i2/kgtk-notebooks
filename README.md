@@ -22,13 +22,13 @@ List of steps required to be able to run the ISI Google colab Notebooks.
 
 The following tutorial notebooks are available to run in Google Colab
 
-1. [01-kgtk-introduction.ipynb](https://colab.research.google.com/drive/1GF5QLc1JBviLltAbSqn5oPOOXbLQway4?usp=sharing)
-2. [02-kg-profiling.ipynb](https://colab.research.google.com/drive/1hKh1ZVEgFKTcQjzW0yQ4G4xrEc3rBv91?usp=sharing)
-3. [03-kg-graph-embeddings.ipynb](https://colab.research.google.com/drive/1A55l10voA4jnjoju3fojJWY3buLfaR4i?usp=sharing)
-4. [04-kg-enrichment-with-csv.ipynb](https://colab.research.google.com/drive/1WMPPe1IlpdI3QB6UX-bPmM5Zj5y9BNUh?usp=sharing)
-5. [05-kg-enrichment-with-lod.ipynb](https://colab.research.google.com/drive/1g6m3Fy98emr2U21iTvgG1nZiFILJ-uTu?usp=sharing)
-6. [06-kg-network-analysis.ipynb](https://colab.research.google.com/drive/1SiVlseUDeYpAJuL9nTrowafdvHSltsrC?usp=sharing)
-7. [07-kg-constraint-validation.ipynb](https://colab.research.google.com/drive/1VfAKIN5ApNkdPu1gFoILO0ZwMAoeap66?usp=sharing)
+1. [01-kgtk-introduction.ipynb](https://colab.research.google.com/drive/1dQeJSYQwpNdIvC9H00SQ90usiUgu3o1E?usp=sharing)
+2. [02-kg-profiling.ipynb](https://colab.research.google.com/drive/1jwq_vVWWwiEa8izA0UZZ_CMK1qIMxBQh?usp=sharing)
+3. [03-kg-graph-embeddings.ipynb](https://colab.research.google.com/drive/1Fl4_5LLEtapOxtVlo57hwpPzEK1gFViL?usp=sharing)
+4. [04-kg-enrichment-with-csv.ipynb](https://colab.research.google.com/drive/1tqKvFTFFQoBCA9GZ5WZPVJhJq5fBem49?usp=sharing)
+5. [05-kg-enrichment-with-lod.ipynb](https://colab.research.google.com/drive/1vXttxSVtJeSDPlCrpL88G6TGhXdoC3ve?usp=sharing)
+6. [06-kg-network-analysis.ipynb](https://colab.research.google.com/drive/1mPORuk88a_MyKOSqvl-KVWCwM--j0KF8?usp=sharing)
+7. [07-kg-constraint-validation.ipynb](https://colab.research.google.com/drive/182ikHCeGDhyPs8WuLQC03c-ET84p0ozM?usp=sharing)
 8. [kgtk-browser.ipynb](https://colab.research.google.com/drive/1_nPKCGswbDzuxJBrSHmqZNSOVVFQkAGY?usp=sharing) (experimental)
 
 Click on a link, it'll take you to the Google Colab notebook. These are readonly notebook links. 
