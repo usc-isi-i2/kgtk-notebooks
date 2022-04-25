@@ -27,7 +27,7 @@ The following tutorial notebooks are available to run in Google Colab
 3. [03-kg-graph-embeddings.ipynb](https://colab.research.google.com/drive/1Fl4_5LLEtapOxtVlo57hwpPzEK1gFViL?usp=sharing)
 4. [04-kg-enrichment-with-csv.ipynb](https://colab.research.google.com/drive/1tqKvFTFFQoBCA9GZ5WZPVJhJq5fBem49?usp=sharing)
 5. [05-kg-enrichment-with-lod.ipynb](https://colab.research.google.com/drive/1vXttxSVtJeSDPlCrpL88G6TGhXdoC3ve?usp=sharing)
-6. [06-kg-network-analysis.ipynb](https://colab.research.google.com/drive/1mPORuk88a_MyKOSqvl-KVWCwM--j0KF8?usp=sharing)
+6. [06-kg-network-analysis.ipynb](https://colab.research.google.com/drive/1Uer-HoqRnjUsCuwvnwzQCer7e3IDqooU?usp=sharing)
 7. [07-kg-constraint-validation.ipynb](https://colab.research.google.com/drive/182ikHCeGDhyPs8WuLQC03c-ET84p0ozM?usp=sharing)
 
 Click on a link, it'll take you to the Google Colab notebook. These are readonly notebook links. 
